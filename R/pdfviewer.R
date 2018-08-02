@@ -1,6 +1,10 @@
 #' View PDF
 #'
 #' Renders pdf files as images in RStudio
+#' @import magick
+#' @import miniUI
+#' @import shiny
+#' @import pdftools
 #' @export
 
 
