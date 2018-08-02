@@ -1,4 +1,4 @@
-Package: PDFimageR
+Package: pdf2imageR
 Title: View PDF
 Version: 0.1.0
 Authors@R: person("Radim", "Hladik", email = "radim.hladik@fulbrightmail.org", role = c("aut", "cre"))
