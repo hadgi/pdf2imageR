@@ -1,0 +1,4 @@
+Name: View PDF
+Description: Renders pdf files as images in RStudio
+Binding: pdfViewerAddin
+Interactive: true

@@ -1,0 +1,16 @@
+Package: PDFimageR
+Title: View PDF
+Version: 0.1.0
+Authors@R: person("Radim", "Hladik", email = "radim.hladik@fulbrightmail.org", role = c("aut", "cre"))
+Description: Renders pdf files as images in RStudio
+Depends:
+    R (>= 3.0.0)
+Imports:
+    shiny (>= 0.13),
+    miniUI (>= 0.1.1),
+    rstudioapi (>= 0.4),
+    magick,
+    pdftools
+License: MIT 
+LazyData: true
+RoxygenNote: 6.1.0
