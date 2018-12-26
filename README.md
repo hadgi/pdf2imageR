@@ -12,7 +12,7 @@ To install nevertheless:
 ``` r
 if(!require(devtools)) install.packages("devtools")
 library("devtools")
-install_github(repo = "hadgi/pdf2imageR")
+install_github(repo = "hlageek/pdf2imageR")
 ```
 
 ![alt text](https://github.com/hadgi/pdf2imageR/blob/master/img/pdf2imageR_printscreen.png "Example RStudio screen")
